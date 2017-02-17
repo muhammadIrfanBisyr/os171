@@ -1,0 +1,12 @@
+"#Muhammad Irfan Bisyr"
+
+Muhammad Irfan Bisyr
+1406578205
+
+Week 00:
+----------
+
+* Creating google account and github account
+* Fill the form and put the google account and github account information
+* Login to badak to verify if the tasks from previous step were successful
+

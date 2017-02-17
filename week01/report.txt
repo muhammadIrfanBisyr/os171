@@ -1,0 +1,9 @@
+Muhammad Irfan Bisyr
+1406578205
+18/02/2017
+--------------------
+
+Week01:
+
+* Learn how to use Git
+* Intro to CLI and Scripting

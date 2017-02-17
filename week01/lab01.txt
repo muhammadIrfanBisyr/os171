@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 muhammad.irfan44 StafCS 4096 Feb 17 23:47 .
+drwx--x--x  3 muhammad.irfan44 StafCS 4096 Feb 17 23:45 ..
+drwxr-xr-x  8 muhammad.irfan44 StafCS 4096 Feb 17 23:46 .git
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 key
+-rw-r--r--  1 muhammad.irfan44 StafCS    0 Feb 17 23:47 lab01.txt
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 log
+-rw-r--r--  1 muhammad.irfan44 StafCS    7 Feb 17 23:18 README.md
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:32 sandbox
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:45 week00
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:21 week01
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:21 week02
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:21 week03
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:21 week04
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:21 week05
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week06
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week07
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week08
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week09
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week10
+drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:23 xtra
+/home/fasilkom/mahasiswa/m/muhammad.irfan44/os171/week01

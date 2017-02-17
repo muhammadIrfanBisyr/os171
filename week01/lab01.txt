@@ -20,3 +20,4 @@ drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week09
 drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:22 week10
 drwxr-xr-x  2 muhammad.irfan44 StafCS 4096 Feb 17 23:23 xtra
 /home/fasilkom/mahasiswa/m/muhammad.irfan44/os171/week01
+Today is 18 Feb 2017 at 00:03:50
